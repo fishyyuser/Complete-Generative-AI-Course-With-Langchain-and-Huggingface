@@ -11,3 +11,5 @@ chromadb
 ollama
 sentence_transformers
 langchain_huggingface
+langchain_ollama
+faiss-cpu
