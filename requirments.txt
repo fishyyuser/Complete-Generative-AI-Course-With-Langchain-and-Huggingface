@@ -10,3 +10,4 @@ langchain-openai
 chromadb
 ollama
 sentence_transformers
+langchain_huggingface
